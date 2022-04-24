@@ -1,4 +1,4 @@
-# Computational_modelling
+# Computational_modelling_of_behavioural_data
 
 The handout.pdf contains the milestones to be accomplished to build and analyze computational model for stress and anxiety
 
